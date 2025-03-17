@@ -1,4 +1,3 @@
-#pragma once
 #include <iostream>
 
 #include "header.h"
@@ -19,9 +18,9 @@ eightProblem::eightProblem()
     }    
 }
 
-void eightProblem::print()
+void eightProblem::printCurrentBoard()
 {
-    std::cout<<"----Current Board----"<<std::endl;
+    std::cout<<"--Current Board:"<<std::endl;
     std::for_each(currentBoard.begin(), currentBoard.end(), [](std::vector<int> row)
     {
         std::for_each(row.begin(), row.end(), [](int num)
@@ -81,7 +80,7 @@ void eightProblem::move(int value)
     }
 }
 
-auto eightProblem::getAvailableMoves()
+std::vector<int> eightProblem::getAvailableMoves()
 {
     std::vector<int> moves;
     int row, col;
