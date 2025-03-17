@@ -1,0 +1,3 @@
+/Users/szc/CLionProjects/GreenSearch/cmake-build-debug/CMakeFiles/GreenSearch.dir
+/Users/szc/CLionProjects/GreenSearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/szc/CLionProjects/GreenSearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v6
+1	1099	1742171735828746617	CMakeFiles/GreenSearch.dir/main.cpp.o	e5a34943fb464a18
+7	1016	1742173086202569367	CMakeFiles/GreenSearch.dir/eightProblem.cpp.o	ea1e0d702bd879b1
+1016	1182	1742173087211012801	GreenSearch	f1e66ae3517c861
+27	1301	1742174366594984139	CMakeFiles/GreenSearch.dir/Astarsearch.cpp.o	ee639e54c2d33b90
+26	1531	1742174366594307269	CMakeFiles/GreenSearch.dir/eightProblem.cpp.o	ea1e0d702bd879b1
+1531	1685	1742174368099554580	GreenSearch	3ef5272623c43b24
